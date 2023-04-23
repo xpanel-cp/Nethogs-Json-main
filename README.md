@@ -1,6 +1,6 @@
 # NetHogs With Json Output
 
-❇️ NetHogs V 0.8.7
+NetHogs V 0.8.7
 
 
 
