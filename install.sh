@@ -9,7 +9,7 @@ yum install gcc-c++ libpcap-devel.x86_64 libpcap.x86_64 "ncurses*"
 fi
 sudo wget -O /root/nethogs.zip https://github.com/Alirezad07/Nethogs-Json-main/archive/refs/heads/master.zip
 unzip /root/nethogs.zip
-mv -f /root/Nethogs-Json-main /root/nethogs
+mv -f /root/Nethogs-Json-main-master /root/nethogs
 cd /root/nethogs/
 chmod 744 /root/nethogs/determineVersion.sh
 sudo make install
