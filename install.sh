@@ -1,5 +1,4 @@
 #!/bin/bash
-#By Hamed Ap
 
 if command -v apt-get >/dev/null; then
 apt update -y
